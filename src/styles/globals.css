@@ -14,6 +14,13 @@ body {
       rgba(3, 37, 68, 0.171));
 }
 
+.mintBtnMain{
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  display: flex;
+}
+
 .logo:hover{
   cursor: pointer;
 }
