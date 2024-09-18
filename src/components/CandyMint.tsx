@@ -45,7 +45,7 @@ export const CandyMint: FC = () => {
     return (
         <div className="mintDetails">
             <div>
-                <div id="price">Minted {_itemsRedeemed}/10</div>
+                <div id="price">Minted {_itemsRedeemed}/{_itemsLoaded}</div>
                 <div id="price"><span className="price2">Price 0.01 SOL</span></div>
                 <p></p>
 
