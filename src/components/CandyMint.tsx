@@ -49,7 +49,7 @@ export const CandyMint: FC = () => {
                 <div id="price"><span className="price2">Price 0.01 SOL</span></div>
                 <p></p>
 
-                <div className="btns3">
+                <div className="mintBtnMain">
                     <button className="gradient-button">Mint</button>
                 </div>
 
