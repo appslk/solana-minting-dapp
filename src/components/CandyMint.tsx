@@ -50,7 +50,7 @@ export const CandyMint: FC = () => {
                 <p></p>
 
                 <div className="mintBtnMain">
-                    <button className="gradient-button">Mint</button>
+                    <button className="gradient-button" onClick={publicMint}>Mint</button>
                 </div>
 
                 {mintedImg ?
